@@ -490,10 +490,11 @@ h2{
 .price{
 font-size:2rem;
     text-align:center;
-font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", sans-serif;
+font-family: Hiragino Kaku Gothic ProN", sans-serif;
     line-height: 1.7;
     color: #432;
     margin-bottom:50px;
      background: -webkit-repeating-linear-gradient(-45deg, #f0f8ff, #f0f8ff 3px,#e9f4ff 3px, #e9f4ff 7px);
     background: repeating-linear-gradient(-45deg, #f0f8ff, #f0f8ff 3px,#e9f4ff 3px, #e9f4ff 7px);
+
 }
